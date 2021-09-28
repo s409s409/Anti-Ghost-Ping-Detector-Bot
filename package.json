@@ -1,0 +1,17 @@
+{
+  "name": "anti-ghost-mention",
+  "version": "1.0.0",
+  "description": "A simple bot to yell at those that want to be annoying by GHOST PINGING",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Oregonian Pyro#0001",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "dotenv": "^6.0.0",
+    "klaw": "^2.1.1",
+    "path": "^0.12.7"
+  }
+}
